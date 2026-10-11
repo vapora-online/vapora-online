@@ -9,6 +9,7 @@ Our mission on GitHub is to provide open-source technical documentation, complia
 ## 🚀 Active Technical Repositories
 
 *   **[Vape Battery Safety Guide](https://github.com):** Real Continuous Discharge Rating (CDR) tables, step-by-step math breakdowns for Ohm's Law, and fundamental risk prevention guidelines for 18650 and 21700 cells.
+*   **[Vape Coils Compatibility Chart](https://github.com):** Cross-compatibility frameworks and recommended power ranges for Vaporesso GTX, Voopoo PnP X, and Geekvape Z Series coil architectures.
 
 ---
 
