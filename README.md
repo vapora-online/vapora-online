@@ -17,7 +17,7 @@ Our mission on GitHub is to provide open-source technical documentation, complia
 We are committed to delivering verified information, reliable hardware data, and educational content to the global community.
 
 *   **Official Global Store:** Explore our full range of hardware and authentic supplies at **[vapora.online](https://vapora.online)**.
-*   **Knowledge Base:** Read deep dives, troubleshooting manuals, and industry insights on our **[Vapora Blog & Support Hub](https://vapora.online)**.
+*   **Knowledge Base:** Read deep dives, troubleshooting manuals, and industry insights on our **[Vapora Blog & Support Hub](https://vapora.online/blog)**.
 
 ---
 *Disclaimer: All hardware data and documentation provided in our repositories are intended for educational and harm-reduction purposes only.*
